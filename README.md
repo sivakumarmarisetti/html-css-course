@@ -9,7 +9,8 @@ This repository showcases my journey of learning **HTML** and **CSS**. I'm excit
 - **🔍 Current Focus:** HTML and CSS Basics  
 - **✅ Completed Topics:**  
   - Basic HTML Structure  
-  - Basic CSS  
+  - Basic CSS
+  - Chrome Dev tools & box-model
 
 ---
 
